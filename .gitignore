@@ -269,3 +269,6 @@ TabbedActivity/captures
 TabbedActivity/.externalNativeBuild
 TabbedActivity/.cxx
 TabbedActivity/local.properties
+CDoublePlus/.idea/
+Fragment_with_ViewModel/.idea/
+TabbedActivity/.idea/
